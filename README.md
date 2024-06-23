@@ -1,4 +1,4 @@
-#Simple Password Manager
+# Simple Password Manager
 Qt application written in C++
 Allows the storage of custom password entries in a local SQL database.
 
